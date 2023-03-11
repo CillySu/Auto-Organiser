@@ -7,6 +7,6 @@ The script keeps track of files it has already processed to avoid duplicates.
 
 Can be run either as a systemd service or in tmux/screen. 
 
-##Dependencies
+## Dependencies
 - *nix machine
 - libreoffice (for office file conversion)
